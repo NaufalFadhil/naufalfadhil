@@ -20,7 +20,7 @@
 Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunadarma University](https://www.gunadarma.ac.id). I love collaboration, challenge, competition, learn technologies and create a new things to problem solve. 
 
 # Languages and Tools
-## Android
+Android
 <p>
   <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-black?style=for-the-badge&logo=JAVA&logoColor=white"/>
   <img alt="KOTLIN" src="https://img.shields.io/badge/-KOTLIN-black?style=for-the-badge&logo=KOTLIN&logoColor=white"/>
@@ -29,7 +29,7 @@ Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunad
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
-## Web 
+Web 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -44,7 +44,7 @@ Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunad
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20CODE-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-## Desktop
+Desktop
 <p>
   <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-black?style=for-the-badge&logo=JAVA&logoColor=white"/>
   <img alt="VISUALBASIC" src="https://img.shields.io/badge/-VISUAL%20BASIC-black?style=for-the-badge&logo=VISUALBASIC&logoColor=white"/>
@@ -53,7 +53,7 @@ Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunad
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-black.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </p>
 
-## Cyber Security
+Cyber Security
 <p>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="RFI/LFI" src="https://img.shields.io/badge/RFI/LFI-black?style=for-the-badge&logo=PHP&logoColor=white" />
@@ -61,7 +61,7 @@ Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunad
   <img alt="FORENSICS" src="https://img.shields.io/badge/FORENSICS-black?style=for-the-badge&logo=FORENSICS&logoColor=white" />
 </p>
 
-## UI/UX & Design
+UI/UX & Design
 <p>
   <img alt="ADOBEXD" src="https://img.shields.io/badge/ADOBE%20XD-black?style=for-the-badge&logo=ADOBEXD&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-black?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
@@ -71,20 +71,20 @@ Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunad
   <img alt="WHIMSICAL" src="https://img.shields.io/badge/WHIMSICAL-black?style=for-the-badge&logo=WHIMSICAL&logoColor=white" />
 </p>
 
-## Database
+Database
 <p>
   <img alt="MYSQL" src="https://img.shields.io/badge/-MYSQL-black?style=for-the-badge&logo=MYSQL&logoColor=white"/>
-  <img alt="POSTGRES" src="https://img.shields.io/badge/-POSTGRES-black?style=for-the-badge&logo=POSTGRES&logoColor=white"/>
+  <img alt="POSTGRESQL" src="https://img.shields.io/badge/-POSTGRESQL-black?style=for-the-badge&logo=POSTGRESQL&logoColor=white"/>
   <img alt="ORACLE" src="https://img.shields.io/badge/-ORACLE-black?style=for-the-badge&logo=ORACLE&logoColor=white"/>
 </p>
 
-## Robotic
+Robotic
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C%20Language-black?style=for-the-badge&logo=C&logoColor=white"/>
   <img alt="ARDUINO" src="https://img.shields.io/badge/ARDUINO-black?style=for-the-badge&logo=ARDUINO&logoColor=white" />
 </p>
 
-## Other
+Other
 <p>
   <img alt="GIT" src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT&logoColor=white"/>
   <img alt="GITHUB" src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=GITHUB&logoColor=white"/>
