@@ -17,7 +17,7 @@
 </div>
 
 # Summary
-Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunadarma University](https://www.gunadarma.ac.id). I love collaboration, challenge, competition, learn technologies and create a new things to problem solve. 
+Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunadarma University](https://gunadarma.ac.id). I love collaboration, challenge, competition, learn technologies and create a new things to problem solve. 
 
 # Languages and Tools
 Android
