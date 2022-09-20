@@ -19,6 +19,8 @@
 ## Summary
 Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunadarma University](https://gunadarma.ac.id). I love collaboration, challenge, competition, learn technologies and create a new things to problem solve. 
 
+![Profile views](https://gpvc.arturio.dev/naufalfadhil)
+
 ## Learn Stack
 <details> 
   <summary>Mobile</summary>
