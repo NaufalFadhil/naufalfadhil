@@ -1,7 +1,7 @@
 <div align="center">
    <h1>NAUFAL FADHIL ATHALLAH</h1>
    <p>
-    <a href="https://naufalfadhil.github.io/" style="text-decoration: none;">
+    <a href="https://naufalfadhil.my.id/" style="text-decoration: none;">
       <img alt="GITHUB" src="https://img.shields.io/badge/PAGES-%23323330.svg?style=for-the-badge&logo=GITHUB&logoColor=white"/>
     </a> 
     <a href="https://www.linkedin.com/in/naufalfadhil" style="text-decoration: none;">
@@ -13,22 +13,26 @@
     <a href="https://naufal-fadhil.medium.com" style="text-decoration: none;">
       <img alt="Medium" src="https://img.shields.io/badge/Medium-%23323330.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
     </a> 
+    <a href="https://leetcode.com/u/naufalfadhil/" style="text-decoration: none;">
+      <img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+    </a> 
   </p>
 </div>
 
 ## Summary
 Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunadarma University](https://gunadarma.ac.id). I love collaboration, challenge, competition, learn technologies and create a new things to problem solve. 
 
-![Profile views](https://gpvc.arturio.dev/naufalfadhil)
+![Profile view](https://komarev.com/ghpvc/?username=naufalfadhil)
 
 ## Learn Stack
 <details> 
   <summary>Mobile</summary>
    <br>
    <p>
-     <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-black?style=for-the-badge&logo=JAVA&logoColor=white"/>
+     <img alt="JAVA" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white"/>
      <img alt="KOTLIN" src="https://img.shields.io/badge/-KOTLIN-black?style=for-the-badge&logo=KOTLIN&logoColor=white"/>
      <img alt="FLUTTER" src="https://img.shields.io/badge/-FLUTTER-black?style=for-the-badge&logo=FLUTTER&logoColor=white"/>
+     <img alt="REACT NATIVE" src="https://img.shields.io/badge/-REACT%20NATIVE-black?style=for-the-badge&logo=REACT&logoColor=white"/>
    </p>
 </details>
 
@@ -52,6 +56,7 @@ Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunad
      <img alt="RUBY" src="https://img.shields.io/badge/-RUBY-black?style=for-the-badge&logo=RUBY&logoColor=white"/>
      <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=white"/>
      <img alt="GO" src="https://img.shields.io/badge/-GO-black?style=for-the-badge&logo=GO&logoColor=white"/>
+     <img alt="PYTHON" src="https://img.shields.io/badge/-PYTHON-black?style=for-the-badge&logo=PYTHON&logoColor=white"/>
      <img alt="RAILS" src="https://img.shields.io/badge/-RAILS-black?style=for-the-badge&logo=RUBY-ON-RAILS&logoColor=white"/>
      <img alt="EXPRESS" src="https://img.shields.io/badge/-EXPRESS%20JS-black?style=for-the-badge&logo=EXPRESS&logoColor=white"/>
      <img alt="LARAVEL" src="https://img.shields.io/badge/-LARAVEL-black?style=for-the-badge&logo=LARAVEL&logoColor=white"/>
@@ -63,7 +68,7 @@ Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunad
    <summary>Desktop</summary>
    <br>
    <p>
-     <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-black?style=for-the-badge&logo=JAVA&logoColor=white"/>
+     <img alt="JAVA" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white"/>
      <img alt="VISUALBASIC" src="https://img.shields.io/badge/-VISUAL%20BASIC-black?style=for-the-badge&logo=VISUALBASIC&logoColor=white"/>
    </p>
 </details>
@@ -72,7 +77,7 @@ Hello world! My name is Naufal Fadhil. Informatics Engineering Student at [Gunad
    <summary>Cyber Security</summary>
    <br>
    <p>
-     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white" />
+     <img alt="KALI LINUX" src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux&logoColor=white" />
      <img alt="RFI/LFI" src="https://img.shields.io/badge/RFI/LFI-black?style=for-the-badge&logo=PHP&logoColor=white" />
      <img alt="CRYPTOGRAPHY" src="https://img.shields.io/badge/CRYPTOGRAPHY-black?style=for-the-badge&logo=CRYPTOGRAPHY&logoColor=white" />
      <img alt="FORENSICS" src="https://img.shields.io/badge/FORENSICS-black?style=for-the-badge&logo=FORENSICS&logoColor=white" />
@@ -115,7 +120,6 @@ Other
 <p>
   <img alt="GIT" src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT&logoColor=white"/>
   <img alt="GITHUB" src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=GITHUB&logoColor=white"/>
-  <img alt="PYTHON" src="https://img.shields.io/badge/-PYTHON-black?style=for-the-badge&logo=PYTHON&logoColor=white"/>
   <img alt="BASIC" src="https://img.shields.io/badge/-BASIC-black?style=for-the-badge&logo=BASIC&logoColor=white"/>
   <img alt="PASCAL" src="https://img.shields.io/badge/-PASCAL-black?style=for-the-badge&logo=PASCAL&logoColor=white"/>
 </p>
